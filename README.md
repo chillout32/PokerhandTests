@@ -1,3 +1,3 @@
 # Pokerhands
 
-Documentation - TODO - Comming soon!
+TestClass.cs includes all written tests, they test multiple different conditions and hands.
