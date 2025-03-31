@@ -1,1 +1,3 @@
-# PokerhandTests
+# Pokerhands
+
+Documentation - TODO - Comming soon!
